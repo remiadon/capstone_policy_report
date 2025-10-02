@@ -1,9 +1,9 @@
-# master_thesis
+# Capstone policy report
 Experiments for my thesis @ SciencesPo
 EMPA track
 
 ## Research question
-This master thesis begins with a simple observation: over recent decades, **commuting distances have surged across most developed economies**, even as these same economies face mounting pressure to align with the Paris Agreement’s climate goals. Far from an isolated anomaly, this trend serves as a measurable indicator of deeper socio-economic shifts.
+This capstone project begins with a simple observation: over recent decades, **commuting distances have surged across most developed economies**, even as these same economies face mounting pressure to align with the Paris Agreement’s climate goals. Far from an isolated anomaly, this trend serves as a measurable indicator of deeper socio-economic shifts.
 
 The first section explores the intricate relationship between commuting distance, car dependency, and their far-reaching consequences—not only for climate change but also for public health and economic well-being. Given that long commutes (over 10 km) account for 80% of commuting-related CO2 emissions in France (Wagner, Laure), **analyzing evolving commuting patterns and their associated economic dependencies becomes essential**.
 This analysis extends to dissecting major societal backlashes, such as the Yellow Vests movement, by examining key distinctions: economic landscapes versus regulatory triggers, or the tension between rational economic behavior and perception-driven actions. Such an approach promises fresh insights into the “green divide” and the complexities of transitioning to sustainable economies.
